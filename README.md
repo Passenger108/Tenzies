@@ -9,6 +9,10 @@ A React-based implementation of the Tenzies dice game, demonstrating fundamental
 - Confetti animation and accessible announcement when you win.
 - Responsive and visually appealing UI.
 
+## Live Demo
+
+Try the game live: [tenziesnitin.netlify.app](https://tenziesnitin.netlify.app/)
+
 ## Project Structure
 
 - [`App.jsx`](App.jsx): Main game logic and UI.
